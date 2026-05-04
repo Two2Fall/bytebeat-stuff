@@ -1,5 +1,0 @@
-Made at: June 27 2024
-Mode: Bytebeat
-Sample rate: 8000
-
-((t^t>>8)*(t^t>>8))
