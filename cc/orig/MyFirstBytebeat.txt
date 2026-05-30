@@ -1,0 +1,9 @@
+This bytebeat over here is the first one I have ever made. When I was exploring
+stuff on demozoo's bytebeat player, I decided to make something that needed to 
+sound good at some point. And I couldn't do it for some reason.
+
+Made at: circa end of 2023
+Mode: Bytebeat
+Sample rate: 8000
+
+t*(t>>11&t)&t>>11
