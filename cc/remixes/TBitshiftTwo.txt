@@ -1,0 +1,8 @@
+Made at: August 22 2024
+Mode: Bytebeat
+Sample rate: 44100
+
+Shitty dubstep, I made a typo when posting that old post
+It was suppossed to mean "t>>12", not "t>>2"
+
+t&t>>12|t/(t>>12&t)|t*(t>>12&t)|t>>12
