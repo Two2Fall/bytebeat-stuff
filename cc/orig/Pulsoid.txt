@@ -1,7 +1,0 @@
-Made at: August 18 2024
-Mode: Bytebeat
-Sample rate: 8000
-
-Hey this one sounds pretty cool (I changed the name, it was pulseoid)
-
-t>>t/(t&32768?17/16:1)|t>>8+t%(t&32768?46:43)
