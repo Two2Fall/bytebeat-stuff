@@ -1,6 +1,6 @@
 // Made at: September 8 2024
 // Mode: Bytebeat
-// Sample rate: 44100
+// Sample rate: 32000
 
 // Thingaz core
 
